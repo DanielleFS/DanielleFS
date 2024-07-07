@@ -1,9 +1,9 @@
-## Olá, humano!! 🖖🏽
+## Olá, tudo bem? 🖖🏽
 
-
+- 🦋 Sou Danielle Ferreira;
 - 📉 Hoje trabalho na área Administrativa;
-- 🚚 Formada em Logística;
-- 📈 Estudante de Informática para Internet pelo IFPE;
+- 🚚 Sou formada em Logística;
+- 📈 Atualmente estudante de Informática para Internet pelo IFPE;
 - 🚀 Buscando transição de carreira.
 ##
 
