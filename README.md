@@ -1,4 +1,4 @@
-## Olá!! 👋
+## Olá, humano!! 🖖🏽
 
 
 - 📉 Hoje trabalho na área Administrativa;
