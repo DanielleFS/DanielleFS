@@ -3,7 +3,7 @@
 - 🦋 Sou Danielle Ferreira;
 - 📉 Hoje trabalho na área Administrativa;
 - 🚚 Sou formada em Logística;
-- 📈 Atualmente estudante de Informática para Internet pelo IFPE;
+- 📈 Atualmente sou estudante de Informática para Internet pelo IFPE;
 - 🚀 Buscando transição de carreira.
 ##
 
