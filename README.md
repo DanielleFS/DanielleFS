@@ -1,8 +1,9 @@
 ## Olá, tudo bem? 🖖🏽
 
 - 🦋 Sou Danielle Ferreira;
-- 📉 Hoje trabalho na área Administrativa;
 - 🚚 Sou formada em Logística;
+- 📉 Tenho 6 anos de experiência na área Administrativa;
+  ##
 - 📈 Atualmente sou estudante de Informática para Internet pelo IFPE;
 - 🤓 Participante do projeto Start 2024.4 da Rede Cidadã;
 - 🚀 Buscando transição de carreira.
