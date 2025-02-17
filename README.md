@@ -4,6 +4,7 @@
 - 📉 Hoje trabalho na área Administrativa;
 - 🚚 Sou formada em Logística;
 - 📈 Atualmente sou estudante de Informática para Internet pelo IFPE;
+- 🤓 Participante do projeto Start 2024.4 da Rede Cidadã;
 - 🚀 Buscando transição de carreira.
 ##
 
