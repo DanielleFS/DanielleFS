@@ -5,7 +5,7 @@
 - 📉 Tenho 6 anos de experiência na área Administrativa;
   ##
 - 📈 Atualmente sou estudante de Informática para Internet pelo IFPE;
-- 🤓 Participante do projeto Start 2024.4 da Rede Cidadã;
+- 🤓 Participante do projeto Start 2024.4 da Rede Cidadã na turma de Frontend;
 - 🚀 Buscando transição de carreira.
 ##
 
