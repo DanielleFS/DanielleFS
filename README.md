@@ -2,11 +2,10 @@
 
 - 🦋 Sou Danielle Ferreira;
 - 🚚 Sou formada em Logística;
-- 📉 Tenho 6 anos de experiência na área Administrativa;
+- 📉 Após 6 anos trabalhando na área Administrativa buscando transição de carreira;
   ##
-- 📈 Atualmente sou estudante de Informática para Internet pelo IFPE;
+- 📈 Atualmente sou estudante de ADS no IFPE;
 - 🤓 Participante do projeto Start 2024.4 da Rede Cidadã na turma de Frontend;
-- 🚀 Buscando transição de carreira.
 ##
 
 <div>
