@@ -1,7 +1,7 @@
 ## Olá, tudo bem? 🖖🏽
 
 - 🦋 Sou Danielle Ferreira;
-- 🚚 Sou formada em Logística;
+- 🚚 Formada em Logística;
 - 📉 Após 6 anos trabalhando na área Administrativa buscando transição de carreira;
   ##
 - 📈 Atualmente sou estudante de ADS no IFPE;
